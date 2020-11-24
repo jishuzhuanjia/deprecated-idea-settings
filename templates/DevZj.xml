@@ -5,7 +5,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="at" value="/**&#10; * author: 2025513&#10; * &#10; * 1.api测试&#10; * &#10; * &#10; * 【作用】&#10; * &#10; * 【测试结果】&#10; * &#10; * 【结论】&#10; * &#10; * 【优点】&#10; * 【缺点】&#10; */" description="api测试" toReformat="false" toShortenFQNames="true">
+  <template name="at" value="/**&#10; * author: jishuzhuanjia&#10; * qq: 2025513 &#10; * &#10; * 1.api测试&#10; * &#10; * &#10; * 【作用】&#10; * &#10; * 【测试结果】&#10; * &#10; * 【结论】&#10; * &#10; * 【优点】&#10; * 【缺点】&#10; */" description="api测试" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
@@ -37,7 +37,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ot" value="/**&#10; * author: 2025513 &#10; * &#10; * 1.测试&#10; * &#10; * &#10; * 【作用】&#10; * &#10; * 【测试结果】&#10; * &#10; * 【结论】&#10; * &#10; * 【优点】&#10; * 【缺点】&#10; */" description="其他测试" toReformat="false" toShortenFQNames="true">
+  <template name="ot" value="/**&#10; * author: jishuzhuanjia &#10; * qq: 2025513 &#10; * &#10; * 1.测试&#10; * &#10; * &#10; * 【作用】&#10; * &#10; * 【测试结果】&#10; * &#10; * 【结论】&#10; * &#10; * 【优点】&#10; * 【缺点】&#10; */" description="其他测试" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
