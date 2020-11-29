@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/jishuzhuanjia/architecture-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jishuzhuanjia/java-ee-explore.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ideaProjects" />
