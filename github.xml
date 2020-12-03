@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="a7842e98-777a-48fd-b98b-089084240e31" name="OnlyMakeBug">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="CONNECTION_TIMEOUT" value="60000" />
   </component>
