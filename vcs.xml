@@ -90,6 +90,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="mfcdebugger@163.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jishuzhuanjia/spring-json-demos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ideaProjects" />
