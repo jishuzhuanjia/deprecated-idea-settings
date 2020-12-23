@@ -5,6 +5,7 @@
       <mapping pattern="Git测试总结" type="PLAIN_TEXT" />
       <mapping pattern=".name" type="PLAIN_TEXT" />
       <mapping ext="zip解压说明" type="PLAIN_TEXT" />
+      <mapping ext="dat3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
